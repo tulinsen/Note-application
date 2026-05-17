@@ -1,0 +1,5 @@
+tülin şen:18,70,100
+ahmet yılmaz:50,50,50
+deniz efe:100,100,90
+çınar turan:100,60,70
+SENA DURAN:60,80,70
